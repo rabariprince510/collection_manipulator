@@ -80,5 +80,21 @@ Project Lead: Your Name - Rabari prince
 
 Project Link: https://github.com/rabariprince510/collection_manipulator/edit/main/README.md
 
+# Screenshots of the result:
+<img width="672" height="396" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/e7f0d49d-2be3-43d4-83ab-3a87cc886683" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
